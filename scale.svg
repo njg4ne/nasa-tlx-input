@@ -1,0 +1,29 @@
+<svg width="5230" height="500" viewBox="0 0 5230 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="nasa-tlx-scale-500-tall">
+<path id="white-bg-rect" d="M5228.76 0H1.23779V500H5228.76V0Z" fill="white"/>
+<path id="h-rule" d="M5129.76 386.137H100.244V400.988H5129.76V386.137Z" fill="black"/>
+<g id="ticks">
+<path id="nasa-tlx-tick-rect-1" d="M117.57 220.301H100.244V400.994H117.57V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-2" d="M368.179 220.301H350.853V400.994H368.179V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-3" d="M618.788 220.301H601.462V400.994H618.788V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-4" d="M869.398 220.301H852.072V400.994H869.398V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-5" d="M1120.01 220.301H1102.68V400.994H1120.01V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-6" d="M1370.62 220.301H1353.29V400.994H1370.62V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-7" d="M1621.23 220.301H1603.9V400.994H1621.23V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-8" d="M1871.83 220.301H1854.51V400.994H1871.83V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-9" d="M2122.44 220.301H2105.12V400.994H2122.44V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-10" d="M2373.05 220.301H2355.73V400.994H2373.05V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-11" d="M2623.66 99.0117H2606.34V400.992H2623.66V99.0117Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-12" d="M2874.27 220.301H2856.95V400.994H2874.27V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-13" d="M3124.88 220.301H3107.56V400.994H3124.88V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-14" d="M3375.49 220.301H3358.17V400.994H3375.49V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-15" d="M3626.1 220.301H3608.77V400.994H3626.1V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-16" d="M3876.71 220.301H3859.38V400.994H3876.71V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-17" d="M4127.32 220.301H4109.99V400.994H4127.32V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-18" d="M4377.93 220.301H4360.6V400.994H4377.93V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-19" d="M4628.54 220.301H4611.21V400.994H4628.54V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-20" d="M4879.15 220.301H4861.82V400.994H4879.15V220.301Z" fill="black"/>
+<path id="nasa-tlx-tick-rect-21" d="M5129.76 220.301H5112.43V400.994H5129.76V220.301Z" fill="black"/>
+</g>
+</g>
+</svg>

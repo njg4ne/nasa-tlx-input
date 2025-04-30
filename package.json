@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gitignore": "^0.7.0",
+    "live-server": "^1.2.2"
+  }
+}
