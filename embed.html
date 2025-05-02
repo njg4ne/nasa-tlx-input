@@ -9,9 +9,9 @@
 
 <script>
     window.onmessage = function (e) {
-        const { type, ...rest } = e.data;
+        type = e.data.type;
         if (type === 'tlx-input-message') {
-            console.log('iframe gave', rest);
+            console.log('iframe gave', e.data);
         }
     };
 </script>
